@@ -117,6 +117,7 @@ function App() {
       >
         Submit
       </Button>
+      <div className={styles.attributionText}>Created by Jeremy Deutsch</div>
     </div>
   );
 }
