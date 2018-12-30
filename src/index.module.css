@@ -1,0 +1,41 @@
+.headerTitleText {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 28px;
+  margin-bottom: 8px;
+}
+
+.tokensLeftText {
+  font-weight: 600;
+  font-size: 20px;
+  margin-top: 4px;
+  margin-bottom: 16px;
+}
+
+.sectionTitleText {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.sectionDescriptionText {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 8px;
+}
+
+.yourNameText {
+  font-size: 22px;
+  font-weight: 600;
+  margin-top: 6px;
+  margin-bottom: 4px;
+}
+
+.yourNameInput {
+  font-family: "Open Sans";
+  height: 22px;
+  width: 70%;
+  font-size: 18px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}

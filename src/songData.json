@@ -1,0 +1,101 @@
+{
+  "new": [
+    {
+      "title": "One Kiss",
+      "artist": "Calvin Harris, Dua Lipa",
+      "odds": 2.2,
+      "spotify": "7ef4DlsgrMEH11cDZd32M6"
+    },
+    {
+      "title": "Shallow",
+      "artist": "Lady Gaga, Bradley Cooper",
+      "odds": 3.5,
+      "spotify": "2VxeLyX666F8uXCJ0dZF8B"
+    },
+    {
+      "title": "These Days",
+      "artist": "Rudimental, Jess Glynne, Macklemore, Dan Caplen",
+      "odds": 5.4,
+      "spotify": "5CLGzJsGqhCEECcpnFQA8x"
+    },
+    {
+      "title": "I Like It",
+      "artist": "Cardi B, Bad Bunny & J Balvin",
+      "odds": 6.2,
+      "spotify": "58q2HKrzhC3ozto2nDdN4z"
+    },
+    {
+      "title": "Girls Like You",
+      "artist": "Maroon 5 ft. Cardi B",
+      "odds": 6.8,
+      "spotify": "6V1bu6o1Yo5ZXnsCJU8Ovk"
+    },
+    {
+      "title": "Happier",
+      "artist": "Marshmello, Bastille",
+      "odds": 7.2,
+      "spotify": "2dpaYNEQHiRxtZbfNsse99"
+    },
+    {
+      "title": "Close to Me",
+      "artist": "Ellie Goulding, Diplo, Swae Lee",
+      "odds": 7.5,
+      "spotify": "5JEx7HbmvHQQswJCsoo9rA"
+    },
+    {
+      "title": "No Tears Left To Cry",
+      "artist": "Ariana Grande",
+      "odds": 8.4,
+      "spotify": "2qT1uLXPVPzGgFOx4jtEuo"
+    },
+    {
+      "title": "Friends",
+      "artist": "Marshmello ft. Anne-Marie",
+      "odds": 8.8,
+      "spotify": "08bNPGLD8AhKpnnERrAc6G"
+    },
+    {
+      "title": "Havana",
+      "artist": "Camila Cabello ft. Young Thug",
+      "odds": 9.5,
+      "spotify": "1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "title": "Solo",
+      "artist": "Clean Bandit ft. Demi Lovato",
+      "odds": 15,
+      "spotify": "6kPJZM97LwdG9QIsT7khp6"
+    },
+    {
+      "title": "Any song with Drake",
+      "artist": "Drake",
+      "odds": 20,
+      "spotify": "3CA9pLiwRIGtUBiMjbZmRw"
+    },
+    {
+      "title": "Sicko Mode",
+      "artist": "Travis Scott ft. Drake",
+      "odds": 70,
+      "spotify": "2xLMifQCjDGFmkHkpNLD9h"
+    }
+  ],
+  "old": [
+    {
+      "title": "YMCA",
+      "artist": "Village People",
+      "odds": 1.01
+    },
+    {
+      "title": "Despacito",
+      "artist": "Luis Fonsi ft. Daddy Yankee",
+      "odds": 1.05,
+      "spotify": "5AgTL2WmiCvoObA8fpncKs"
+    },
+    {
+      "title": "Gangnam Style",
+      "artist": "Psy",
+      "odds": 1.2,
+      "spotify": "03UrZgTINDqvnUMbbIMhql"
+    }
+  ]
+}
