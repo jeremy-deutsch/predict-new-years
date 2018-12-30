@@ -3,7 +3,8 @@ import { string, number, bool, func } from "prop-types";
 import IconButton from "@material-ui/core/IconButton";
 
 import styles from "./SongItem.module.css";
-const imgSrc = require("./168px-Spotify_logo_without_text.png");
+const imgSrc =
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/168px-Spotify_logo_without_text.svg.png";
 
 function SongItem(props) {
   const totalPayout = Number((props.tokens * props.odds).toFixed(2));
