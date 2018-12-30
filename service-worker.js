@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/predict-new-years/precache-manifest.406ae4354d5878fc3ceb835bb57b5b4a.js"
+  "/predict-new-years/precache-manifest.7d677c4854dce690afba161568b247a6.js"
 );
 
 workbox.clientsClaim();

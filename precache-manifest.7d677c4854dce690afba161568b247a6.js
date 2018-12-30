@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "24a3b6e2e7759b1b3797",
+    "revision": "7f18e8ec4c1a4b5da8f5",
     "url": "/predict-new-years/static/css/main.d9598a61.chunk.css"
   },
   {
-    "revision": "24a3b6e2e7759b1b3797",
-    "url": "/predict-new-years/static/js/main.24a3b6e2.chunk.js"
+    "revision": "7f18e8ec4c1a4b5da8f5",
+    "url": "/predict-new-years/static/js/main.7f18e8ec.chunk.js"
   },
   {
     "revision": "9648ff1b222a996a30d2",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/predict-new-years/static/js/runtime~main.2c5957e9.js"
   },
   {
-    "revision": "214f7ef9f971357f8f67de34d43bb6ac",
+    "revision": "1248a61fd635a34ee75ab8edff5508dd",
     "url": "/predict-new-years/index.html"
   }
 ];
